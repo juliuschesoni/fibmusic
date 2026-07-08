@@ -3,7 +3,8 @@ Run the generator directly from the terminal to create your audio file:
 
 Bash
 # Generate a 100-note sequence
-python main.py --count 100
+python3 main.py --count 100
+
 The output will be saved as output.wav in your project directory.
 
 Technical Details
